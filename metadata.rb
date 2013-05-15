@@ -77,11 +77,6 @@ attribute "nginx/keepalive_timeout",
   :display_name => "Nginx Keepalive Timeout",
   :default => "65"
 
-attribute "nginx/worker_processes",
-  :display_name => "Nginx Worker Processes",
-  :description => "Number of worker processes",
-  :default => "1"
-
 attribute "nginx/worker_connections",
   :display_name => "Nginx Worker Connections",
   :description => "Number of connections per worker",

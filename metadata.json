@@ -196,20 +196,6 @@
 
       ]
     },
-    "nginx/worker_processes": {
-      "display_name": "Nginx Worker Processes",
-      "description": "Number of worker processes",
-      "default": "1",
-      "choice": [
-
-      ],
-      "calculated": false,
-      "type": "string",
-      "required": "optional",
-      "recipes": [
-
-      ]
-    },
     "nginx/worker_connections": {
       "display_name": "Nginx Worker Connections",
       "description": "Number of connections per worker",
