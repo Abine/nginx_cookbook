@@ -16,8 +16,7 @@
     "fedora": ">= 0.0.0"
   },
   "dependencies": {
-    "build-essential": ">= 0.0.0",
-    "ohai": ">= 1.1.4"
+    "build-essential": ">= 0.0.0"
   },
   "recommendations": {
     "runit": ">= 0.0.0",
